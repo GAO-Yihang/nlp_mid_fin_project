@@ -8,7 +8,7 @@ This repository contains the implementation and experiments for a Chinese–Engl
 
 All pretrained model checkpoints are hosted on **Hugging Face** due to GitHub file size limitations.
 
-**Checkpoint URL:**  
+**Checkpoint URL:**  https://huggingface.co/datasets/GAO612/nlp_project
 
 ## 🚀 Quick Start: Inference
 
